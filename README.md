@@ -39,3 +39,5 @@ The five planets where the classification is not yet known are removed.
 Since this is a problem of classification, a random forest classifier is used. 80% of the dataset is used to train the model and it is tested on the remaining 20%.
 
 The program is most effectively run through Jupyter Notebooks. Here the machine learning models and the input parameters used to train the models can be modified.
+
+The numerous branches of this repo correspond to using different selections of input parameters when training the machine learning models.
